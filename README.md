@@ -1,2 +1,4 @@
-# AppTemplate
-Simple app design template using Expo Go and React Native
+# Quick Use
+cd App
+- npm run ios
+- npm run web
